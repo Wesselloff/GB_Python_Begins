@@ -39,3 +39,9 @@ print(sd1)
 
 sd2 = Date('31-06-2020')
 print(sd2)
+
+sd3 = Date('29-02-2020')
+print(sd3)
+
+sd4 = Date('29-02-2019')
+print(sd4)
